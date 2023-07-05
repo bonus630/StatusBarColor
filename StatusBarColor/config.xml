@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<resources>
+		<resource name="StatusBarColor" path="StatusBarColor.CorelAddon">
+			<resourceMap>
+				<!-- Menu item icon and string resource -->
+				<resEntry id="28ef6590-9aa2-493a-9ddc-dd9955ed5ac3" string="10223" icon="104"/>
+      </resourceMap>
+		</resource>
+	</resources>
+</config>
